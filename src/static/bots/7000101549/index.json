@@ -1,0 +1,26 @@
+{
+  "id": "7000101549",
+  "client_id": "6d8fd25a-1eb1-4afb-b2a6-d34991959b76",
+  "url": "https://prsdigg.com",
+  "name": {
+    "zh": "顶呱呱"
+  },
+  "text": {
+    "zh": [
+      "顶瓜瓜 https://prsdigg.com 尝试建立一个作者与读者共赢的平台。"
+    ]
+  },
+  "tags": {
+    "zh": ["发布", "写作", "阅读"]
+  },
+  "category": "内容出版",
+  "language": "zh",
+  "languages": ["zh"],
+
+  "developer": {
+    "name": "李安",
+    "url": "https://github.com/an-lee/"
+  },
+  "website": "https://prsdigg.com",
+  "support_url": "https://prsdigg.com"
+}
